@@ -1,1 +1,4 @@
-print "hello thar"
+int main()
+{
+	return 0;
+}
